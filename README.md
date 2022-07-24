@@ -1,1 +1,1 @@
-hexlet-my-first-workflow
+[![hello-world](https://github.com/ruslanrust/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg?branch=main)](https://github.com/ruslanrust/hexlet-my-first-workflow/actions/workflows/hello-world.yml)
